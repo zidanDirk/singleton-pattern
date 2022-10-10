@@ -232,6 +232,9 @@ test("decrementing 1  times should be 3", () => {
 
 ---
 
+**[本文示例代码地址](https://github.com/zidanDirk/singleton-pattern)**
+
+
 参考文献
 
 - **[Do React Hooks replace Redux - Eric Elliott](https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672)**
